@@ -9,6 +9,8 @@ A simple bit-distortion program for randomly overriding different segments of da
 * Need to implement the 'Attempt Photo Fix' functionality
 * Fine-tune bit distortion algorithm with other, more interesting methods
 * Address other various graphical bugs
+* Fix lack of icon in .exe
+* Fix missing GitHub logo in .exe
 
 #### venv setup:
 
