@@ -9,6 +9,9 @@ __pycache__/
 # Secrets
 *.secret
 
+# EXEs
+*.exe
+
 # Distribution / packaging
 .Python
 build/
