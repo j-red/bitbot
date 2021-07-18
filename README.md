@@ -13,3 +13,8 @@ A simple bit-distortion program for randomly overriding different segments of da
 #### venv setup:
 
 On Windows, run `call Scripts/activate` from the `/bitbot/` directory.
+
+
+#### Compiling Executables
+
+From root directory: `pyinstaller --noconsole -i ./bitbot-logo.ico --onefile bitbot-gui/main.py`
